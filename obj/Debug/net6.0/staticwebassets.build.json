@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "xtfIOlgWjoms6aYTatGbfaoO2claoHHMRleiAmPHqy8=",
+  "Source": "SecretsSharingAPI",
+  "BasePath": "_content/SecretsSharingAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
